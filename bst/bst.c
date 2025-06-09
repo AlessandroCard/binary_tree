@@ -22,7 +22,7 @@ bst * insert(bst *root, int value)
   return root;
 }
 
-bst * busca(bst *root, int value)
+bst * search(bst *root, int value)
 {
   bst *aux1 = root, *aux2;
 
